@@ -58,7 +58,7 @@ Tianyu Pang, Kun Xu, Chao Du, Ning Chen, Jun Zhu, 2019.
 - Improving Adversarial Robustness of Ensembles with Diversity Training. <br>
   Sanjay Kariyappa, Moinuddin K. Qureshi, 2019.
 
-- Mixture of Robust Experts (MoRE): A Robust Denoising Method towards multiple perturbations. <br>
+- Mixture of Robust Experts (MoRE): A Robust Denoising Method Towards Multiple Perturbations. <br>
 Kaidi Xu, Chenan Wang, Hao Cheng, Bhavya Kailkhura, Xue Lin, Ryan Goldhahn, 2021.
 
 - Jacobian Ensembles Improve Robustness Trade-Offs to Adversarial Attacks. <br>
@@ -82,11 +82,16 @@ Anh Tuan Bui , Trung Le, He Zhao, Paul Montague, Olivier deVel, Tamas Abraham, D
 - Improving Adversarial Robustness for Free with Snapshot Ensemble. <br>
 Yihao Wang, 2021.
 
-- Enhanced Accuracy and Robustness via Multi-teacher Adversarial Distillation. <br>
+- Enhanced Accuracy and Robustness via Multi-Teacher Adversarial Distillation. <br>
 Shiji Zhao, Jie Yu, Zhenlong Sun, Bo Zhang, Xingxing Wei, 2022.
 
-- Robust graph neural networks via ensemble learning. <br>
+- Robust Graph Neural Networks via Ensemble Learning. <br>
 Qi Lin, Shuo Yu, Ke Sun, Wenhong Zhao, Osama Alfarraj, Amr Tolba, Feng Xia, 2022.
 
 - Improving Hyperspectral Adversarial Robustness Under Multiple Attacks. <br>
 Nicholas Soucy, Salimeh Yasaei Sekeh, 2022.
+
+### Attack methods
+
+- MORA: Improving Ensemble Robustness Evaluation with Model-Reweighing Attack. <br>
+Yunrui Yu, Xitong Gao, Cheng-Zhong Xu, 2022.
